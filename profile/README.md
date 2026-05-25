@@ -1,7 +1,8 @@
 ![Legacy Edition Banner](../banner.png)
 # Minecraft Legacy Edition Multiplayer (mclemp)
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/u9f67jaWyP)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/u9f67jaWyP)
+[![Website](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://mclegacyedition.xyz)
 
 ## Tool's we use
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
